@@ -18,7 +18,7 @@
 
   - `doesRouter/` - My router
 
-- `modules/` - [Modules](https://nixos.wiki/wiki/Module) `nixosModules` that
+- `modules/` - [Modules](https://wiki.nixos.org/wiki/Module) `nixosModules` that
   appear in the flake, automatically.
 
   - `mixins/` - Dotfiles/Configurations. Instead of imperatively configuring
